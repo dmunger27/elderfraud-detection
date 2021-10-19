@@ -8,9 +8,9 @@ The goal of the project is to identify suspected elder fraud in digital payments
 
 ### Team
 
-Dallin Munger
-Aubrey Barrett
-Omar Elfeky
+* Dallin Munger
+* Aubrey Barrett
+* Omar Elfeky
 
 ### Methods Used
 
